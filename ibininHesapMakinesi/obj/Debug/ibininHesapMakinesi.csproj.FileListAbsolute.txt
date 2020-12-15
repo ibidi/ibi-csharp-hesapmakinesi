@@ -1,0 +1,10 @@
+C:\Users\ibidi\source\repos\ibininHesapMakinesi\ibininHesapMakinesi\bin\Debug\ibininHesapMakinesi.exe.config
+C:\Users\ibidi\source\repos\ibininHesapMakinesi\ibininHesapMakinesi\bin\Debug\ibininHesapMakinesi.exe
+C:\Users\ibidi\source\repos\ibininHesapMakinesi\ibininHesapMakinesi\bin\Debug\ibininHesapMakinesi.pdb
+C:\Users\ibidi\source\repos\ibininHesapMakinesi\ibininHesapMakinesi\obj\Debug\ibininHesapMakinesi.csprojAssemblyReference.cache
+C:\Users\ibidi\source\repos\ibininHesapMakinesi\ibininHesapMakinesi\obj\Debug\ibininHesapMakinesi.Form1.resources
+C:\Users\ibidi\source\repos\ibininHesapMakinesi\ibininHesapMakinesi\obj\Debug\ibininHesapMakinesi.Properties.Resources.resources
+C:\Users\ibidi\source\repos\ibininHesapMakinesi\ibininHesapMakinesi\obj\Debug\ibininHesapMakinesi.csproj.GenerateResource.cache
+C:\Users\ibidi\source\repos\ibininHesapMakinesi\ibininHesapMakinesi\obj\Debug\ibininHesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\ibidi\source\repos\ibininHesapMakinesi\ibininHesapMakinesi\obj\Debug\ibininHesapMakinesi.exe
+C:\Users\ibidi\source\repos\ibininHesapMakinesi\ibininHesapMakinesi\obj\Debug\ibininHesapMakinesi.pdb
