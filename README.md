@@ -1,3 +1,7 @@
-# ibi-csharp-hesapmakinesi
-ya geçen 6 saat buna zaman ayırmıştım onun deposu
-https://ibidi.is-inside.me/bLjeAnbH.gif
+<h1 align="center">
+  <br>
+ <img src="https://ibidi.is-inside.me/bLjeAnbH.gif" alt="degetla"></a>
+  <br>
+  ibi bla bla
+  <br>
+</h1>
